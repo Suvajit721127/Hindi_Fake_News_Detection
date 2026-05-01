@@ -33,9 +33,12 @@ A deep learning-based Fake News Detection System for Hindi news articles using *
 
 This project uses Hindi fake news datasets for training and evaluation.
 
-* Hindi Fake News Detection Dataset (HFDND)
+## Hindi Fake News Detection Dataset (HFDND)
   [https://www.kaggle.com/datasets/arnavagrawal22/arnsin-dl-cleaned1](https://www.kaggle.com/datasets/arnavagrawal22/arnsin-dl-cleaned1)
 
+## HinVec Embedding Model
+HinVec Pretrained Hindi Word Embeddings
+[https://github.com/anoopkunchukuttan/hindvec](https://huggingface.co/Sailesh97/Hinvec)
 
 ## Project Workflow
 
