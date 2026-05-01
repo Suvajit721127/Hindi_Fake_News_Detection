@@ -27,7 +27,7 @@ A deep learning-based Fake News Detection System for Hindi news articles using *
 
 ## Demo Screenshot
 
-<img width="100%" alt="Project Demo" src="https://your-image-link.com/demo.png">
+<img width="100%" alt="Project Demo" src="demo.png">
 
 ## Dataset
 
